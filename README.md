@@ -3,7 +3,7 @@ Give other supersymmetry developers access to this
 
 # Read this first
 
-Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas and information were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered. The same goes for important information about supersymmetry as a whole (its game design, overall progression, etc), which will be put on the README file.
+Before, ideas and information were spread all over the place on github, discord, and so on. But organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to keep track of the important ideas and information surrounding supersymmetry, before it got buried on discord and forgotten by everyone. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered. The same goes for important information about supersymmetry as a whole (its game design, overall progression, etc), which will be put on the README file.
 
 This is different from gt-ideas (although we might borrow some ideas from there) because this will mostly contain ideas specific to supersymmetry. Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. However, sometimes it may be unclear whether a feature is planned to be put into GregTech. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
 
