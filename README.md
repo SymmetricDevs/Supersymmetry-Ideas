@@ -3,11 +3,9 @@ Give other supersymmetry developers access to this
 
 # Read this first
 
-Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas and information were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered. Important information about supersymmetry as a whole (its game design, overall progression, etc) will be put on the README file.
+Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas and information were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered. The same goes for important information about supersymmetry as a whole (its game design, overall progression, etc), which will be put on the README file.
 
-This is different from gt-ideas because this will mostly contain ideas specific to supersymmetry. Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. However, sometimes it may be unclear whether a feature is planned to be put into GregTech. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
-
-However, ideas from gt-ideas may be used in supersymmetry if they aren't being put in base gregtech anyways. I'm not going to copy every issue from https://github.com/GregTechCEu/gt-ideas/issues into this repository. So check it out
+This is different from gt-ideas (although we might borrow some ideas from there) because this will mostly contain ideas specific to supersymmetry. Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. However, sometimes it may be unclear whether a feature is planned to be put into GregTech. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
 
 To submit an idea: Open an issue. Give it a brief title summarizing the idea. If you can, add details, links, and images for the idea. If you don't have a lot of details about your idea, that's fine. The only thing you have to do is assign labels to the issue so we have a basic idea of what it is (besides the title). Some ideas fall into multiple labels. Existing ideas can have suggestions and research added to them in replies.
 
