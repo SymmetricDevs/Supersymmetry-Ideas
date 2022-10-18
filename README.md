@@ -6,7 +6,7 @@ Organization will become more important as supersymmetry development becomes mor
 
 To submit an idea: Open an issue. Give it a brief title summarizing the idea. If you can, add details, links, and images for the idea. If you don't have a lot of details about your idea, that's fine. The only thing you have to do is assign labels to the issue so we have a basic idea of what it is (besides the title). Some ideas fall into multiple labels. Existing ideas can have suggestions and research added to them in replies.
 
-Note: Some ideas here may be ideas that are being considered for a base GregTech mod such as GCYS or GTCEu. There is a label for that. Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry.
+Note: Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. Some ideas here may have already been considered for a base GregTech mod such as GCYS or GTCEu, but may be unclear if it is being added. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
 
 This place should only be for pending ideas and not for ideas that have already been approved, or ideas that are currently being implemented.
 Approved ideas are put in the “Todo” section of the github tracking project. Ideas currently being implemented are put in the “In Planning” category or “In Progress” category on the tracking project. Close issues if they are moved to the github project.
