@@ -13,6 +13,8 @@ The supersymmetry github project: https://github.com/users/Zalgo239/projects/1
 
 # Overall game design (also read this)
 
+This may be subject to change. I will change it accordingly if Zalgo wants to add some more details (I don't know how github permissions work)
+
 This is just for keeping track of the overall game design of supersymmetry according to Zalgo. Base your ideas around this.
 
 The 3 main gameplay areas:
@@ -25,4 +27,4 @@ Very general progression (based on what transportation the player has unlocked):
 ![image](https://user-images.githubusercontent.com/112270586/196346551-4dbd3514-e1f0-4292-a058-b1d881ab3a0e.png)
 ![image](https://user-images.githubusercontent.com/112270586/196346562-a3f4dfb9-1456-465a-935a-471a25060a28.png)
 
-This may be subject to change. I will change it accordingly if Zalgo wants to add some more details (I don't know how github permissions work)
+
