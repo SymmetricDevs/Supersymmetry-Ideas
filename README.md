@@ -3,7 +3,7 @@ Give other supersymmetry developers access to this
 
 # Read this first
 
-Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered.
+Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas and information were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered. Important information about supersymmetry as a whole (its game design, overall progression, etc) will be put on the README file.
 
 This is different from gt-ideas because this will mostly contain ideas specific to supersymmetry. Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. However, sometimes it may be unclear whether a feature is planned to be put into GregTech. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
 
@@ -16,9 +16,9 @@ Approved ideas are put in the “Todo” section of the github tracking project.
 
 The supersymmetry github project: https://github.com/users/Zalgo239/projects/1
 
-# Overall game design (also read this)
+# Important information
 
-This may be subject to change. I will change it accordingly if Zalgo wants to add some more details (I don't know how github permissions work)
+# Overall game design
 
 This is just for keeping track of the overall game design of supersymmetry according to Zalgo. Base your ideas around this.
 
