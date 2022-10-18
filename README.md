@@ -1,5 +1,7 @@
 # Read this first
 
+THIS IS NOT LIKE GT-IDEAS AS THIS IS SPECIFIC TO SUPERSYMMETRY.
+
 Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered.
 
 To submit an idea: Open an issue. Give it a brief title summarizing the idea. If you can, add details, links, and images for the idea. If you don't have a lot of details about your idea, that's fine. The only thing you have to do is assign categories to the issue so we have a basic idea of what it is (besides the title). Existing ideas can have suggestions added to them in replies.
