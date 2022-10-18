@@ -2,11 +2,13 @@
 
 THIS IS NOT LIKE GT-IDEAS AS THIS IS SPECIFIC TO SUPERSYMMETRY.
 
+Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. However, sometimes it may be unclear whether a feature is planned to be put into GregTech. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
+
+However, ideas from gt-ideas may be used in supersymmetry if they aren't being put in base gregtech anyways. I'm not going to copy every issue from https://github.com/GregTechCEu/gt-ideas/issues into this repository. So check it out
+
 Organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to organize the important ideas and information surrounding supersymmetry. Before, ideas were spread all over the place on github, discord, and so on. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered.
 
 To submit an idea: Open an issue. Give it a brief title summarizing the idea. If you can, add details, links, and images for the idea. If you don't have a lot of details about your idea, that's fine. The only thing you have to do is assign labels to the issue so we have a basic idea of what it is (besides the title). Some ideas fall into multiple labels. Existing ideas can have suggestions and research added to them in replies.
-
-Note: Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. Some ideas here may have already been considered for a base GregTech mod such as GCYS or GTCEu, but may be unclear if it is being added. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
 
 This place should only be for pending ideas and not for ideas that have already been approved, or ideas that are currently being implemented.
 Approved ideas are put in the “Todo” section of the github tracking project. Ideas currently being implemented are put in the “In Planning” category or “In Progress” category on the tracking project. Close issues if they are moved to the github project.
