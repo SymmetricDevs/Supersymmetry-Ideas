@@ -21,6 +21,8 @@ The 3 main gameplay areas:
 Making enemies ever so slightly stronger than the player for a constant challenge:
 ![image](https://user-images.githubusercontent.com/112270586/196346427-f74cc112-aac4-42f0-9144-cf16d4cf28fe.png)
 
-Progression of available transportation:
+Very general progression (based on what transportation the player has unlocked):
 ![image](https://user-images.githubusercontent.com/112270586/196346551-4dbd3514-e1f0-4292-a058-b1d881ab3a0e.png)
 ![image](https://user-images.githubusercontent.com/112270586/196346562-a3f4dfb9-1456-465a-935a-471a25060a28.png)
+
+This may be subject to change. I will change it accordingly if Zalgo wants to add some more details (I don't know how github permissions work)
