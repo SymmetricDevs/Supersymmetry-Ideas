@@ -1,24 +1,13 @@
-# To-do
-Give other supersymmetry developers access to this
+Before, ideas and information were spread all over the place on github, discord, and so on. But organization will become more important as supersymmetry development becomes more active. This was made to keep track of the ideas and information surrounding supersymmetry, in one place. There is not really a format for submitting ideas.
 
-# Read this first
+Information about ore veins and machines to implement is here instead, due to it being more convenient to store in spreadsheet form: https://docs.google.com/spreadsheets/d/1Fs8qD99pRDpkTqtLE6fJlXYYXZNGlIo_1DkdGxqAbm0
 
-Before, ideas and information were spread all over the place on github, discord, and so on. But organization will become more important as supersymmetry development becomes more active, now that groovyscript and GCYS have been released. This was made to keep track of the important ideas and information surrounding supersymmetry, before it got buried on discord and forgotten by everyone. This repository will be the one dumping ground for ideas where they can be easily tracked and remembered. The same goes for important information about supersymmetry as a whole (its game design, overall progression, etc), which will be put on the README file.
-
-This is different from gt-ideas (although we might borrow some ideas from there) because this will mostly contain ideas specific to supersymmetry. Features that are confirmed to be going into a base GregTech mod shouldn't be added into Supersymmetry. However, sometimes it may be unclear whether a feature is planned to be put into GregTech. There is a label for these ideas. "Ideas that may be added to a base GregTech mod"
-
-To submit an idea: Open an issue. Give it a brief title summarizing the idea. If you can, add details, links, and images for the idea. If you don't have a lot of details about your idea, that's fine. The only thing you have to do is assign labels to the issue so we have a basic idea of what it is (besides the title). Some ideas fall into multiple labels. Existing ideas can have suggestions and research added to them in replies.
-
-This place should only be for pending ideas and not for ideas that have already been approved, or ideas that are currently being implemented.
-Approved ideas are put in the “Todo” section of the github tracking project. Ideas currently being implemented are put in the “In Planning” category or “In Progress” category on the tracking project. Close issues if they are moved to the github project.
-
-The supersymmetry github project: https://github.com/users/Zalgo239/projects/1
-
-# Important information
+Stuff that is in progress is noted here: https://github.com/users/Zalgo239/projects/1
+Pinned messages in the shadier channel also mentions stuff that is in progress
 
 # Overall game design
 
-This is just for keeping track of the overall game design of supersymmetry according to Zalgo. Base your ideas around this.
+This is just for keeping track of the overall game design of supersymmetry according to Zalgo:
 
 The 3 main gameplay areas:
 ![image](https://user-images.githubusercontent.com/112270586/196346365-ba463a92-75ba-4209-a5cd-215f4f61816c.png)
