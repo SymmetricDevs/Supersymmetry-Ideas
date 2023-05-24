@@ -19,4 +19,7 @@ Very general progression (based on what transportation the player has unlocked):
 ![image](https://user-images.githubusercontent.com/112270586/196346551-4dbd3514-e1f0-4292-a058-b1d881ab3a0e.png)
 ![image](https://user-images.githubusercontent.com/112270586/196346562-a3f4dfb9-1456-465a-935a-471a25060a28.png)
 
-
+---
+# Tech tree
+Latest version of the tech tree
+![techtree](https://github.com/SymmetricDevs/Supersymmetry-Ideas/assets/67443118/0608e0e1-b5bb-4a6c-9eb6-63891c3b5fb3)
