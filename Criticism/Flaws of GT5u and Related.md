@@ -22,6 +22,9 @@ One possible idea here would be to be able to make machines of any tier at any g
 When the variables are filled this would mean “I am able to make Tungsten and Titanium (or other tier-gated materials) at LV, but at a horrible yield (a lot of power and material wasted).
 For Tungsten, it was already used in WW1 and first discovered in 1781, which makes it nonsensical to gate it to IV. 
 ## Materials
+
+^2e6ecc
+
 The GT5u family is badly afflicted with material orphanage, that meaning, manifolds of materials, metals and alloys having few or oftentimes only one use for something barely justified or sensical (when viewed with realism). 
 IRL there's a reason for the 2500 registered and recognised steel variants, since each of them has a very specialised use, whereas GT5u/GTCE(u) lavishly adds new materials for the reasons of grind, gating and avoiding recipe conflicts. 
 In many such cases, the requirements are exotic and commonly out of place, since a nickel or copper super-alloy does not belong into the external structure of a large crusher.
