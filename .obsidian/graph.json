@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "path:\"Meeting Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1753370
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792617,
+  "scale": 0.5087618855792663,
   "close": false
 }
