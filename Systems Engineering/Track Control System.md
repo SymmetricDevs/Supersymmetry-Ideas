@@ -1,7 +1,6 @@
 ---
 tags:
-  - Workpiece
-  - SuSy
+  - Systems-Engineering
 hotlinks:
   - "[[Control Systems]]"
 ---
