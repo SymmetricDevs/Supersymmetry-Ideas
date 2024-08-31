@@ -1,6 +1,6 @@
 Before, ideas and information were spread all over the place on github, discord, and so on. But organization will become more important as supersymmetry development becomes more active. This was made to keep track of the ideas and information surrounding supersymmetry, in one place. There is not really a format for submitting ideas.
 
-More information about stuff is in #important-stuff channel
+More information about stuff is in \#important-stuff channel
 
 Stuff that is in progress is noted here: https://github.com/orgs/SymmetricDevs/projects/1
 
