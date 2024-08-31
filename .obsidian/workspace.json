@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "0f75a82b4954fbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e260c6667f93fd48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e32d461b877784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3da6967fd75a898e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ef9c648ae7f3e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exploration/structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "415a78761ffcf174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criticism/Issues in SuSy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc87d3a9fa39c530",
+    "type": "split",
+    "children": [
+      {
+        "id": "e130e72aee10326e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4ac487dde9459a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecfca6d14f1b418a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e99d1b3f5fbd969f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad4a90dd9649ca0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3393d00b191925f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b70dc9c455f4e49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cea55b33e813b7f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5559ec3fce4c213f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69a70abbd82cb06f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3da6967fd75a898e",
+  "lastOpenFiles": [
+    "exploration/structures.md",
+    "Criticism/Issues in SuSy.md",
+    "Criticism/Overhauling Systems and Mechanics.md",
+    "Oreverhaul/Technical Implementations of Oreverhaul.md",
+    "Systems Engineering/Designing a Flow Assembly.md",
+    "Oreverhaul/Processing",
+    "Oreverhaul/Geogenesis",
+    "Oreverhaul/Untitled.md",
+    "Oreverhaul/Extraction",
+    "Oreverhaul/Processing/Beneficiation.md",
+    "Systems Engineering",
+    "Criticism",
+    "README.md",
+    "Oreverhaul",
+    "Oreverhaul/Geogenesis/Types of Nodes and Deposits.md",
+    "Systems Engineering/Track Control System.md",
+    "Oreverhaul/Processing/Tertiary Crushing.md",
+    "Sources and References.md",
+    "Slag.md",
+    "Oreverhaul/Processing/Secondary Crushing.md",
+    "Oreverhaul/Road To Oreverhaul.md",
+    "Oreverhaul/Processing/Processing of Deposit Rocks.md",
+    "Oreverhaul/Processing/Primary Crushing.md",
+    "Systems Engineering/Pressure Swing Adsorption MKII.md",
+    "Oreverhaul/Oreverhaul Main Page.md",
+    "Oreverhaul/Geogenesis/Oreverhaul Deposits.md",
+    "Oreverhaul/Extraction/Natgas and Oil Extraction.md",
+    "Oreverhaul/Extraction/Mining Machines.md",
+    "Oreverhaul/Processing/Mineral Processing Machines.md",
+    "Criticism/Maintenance Redo.md",
+    "Oreverhaul/Processing/Jaw Crusher calculations.md",
+    "Criticism/Flaws of GT5u and Related.md",
+    "Media/Yearning for the Mining.canvas",
+    "Media/Three-Stage Crushing.png",
+    "Media/Three-Stage Crushing.graphml",
+    "Media/Three-Stage Comminution.canvas",
+    "Media/GT Material Loop.canvas",
+    "Media/Generalised Ore to Pure Metal.canvas",
+    "Media/Fire Systems.canvas",
+    "Media",
+    "Control Systems",
+    "Oreverhaul"
+  ]
+}
