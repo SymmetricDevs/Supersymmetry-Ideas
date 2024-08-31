@@ -1,6 +1,9 @@
 ---
 tags:
-  - SuSy
+  - Systems-Engineering
+  - Overhauls
+aliases:
+  - Continuous Recipe Logic
 ---
 Referring to [[Flaws of GT5u and Related]]; GT5u and *MANY* games suffer from didactic reduction which reduces complex procedures and chains into a (mostly) linear sequence of “A+B->Y+Z”.
 
