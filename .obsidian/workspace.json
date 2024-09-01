@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e260c6667f93fd48",
+        "id": "e0353f2273d77eab",
         "type": "tabs",
         "children": [
           {
-            "id": "70e32d461b877784",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "064672ecbf70383f",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f46f8013e4b4121",
+            "id": "a80049fbf05a7792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oreverhaul/Coal Sheet Mining.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +143,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "70e32d461b877784",
+  "active": "a80049fbf05a7792",
   "lastOpenFiles": [
+    "Landfill (C) Eight.md",
+    "Fibre Optics.md",
+    "Untitled Kanban.md",
+    "Oreverhaul/Processing/Processing of Deposit Rocks.md",
     "Susy Ideas-Legacy/Media/Yearning for the Mining.canvas",
     "Susy Ideas-Legacy/Media/Three-Stage Crushing.png",
     "Susy Ideas-Legacy/Media/Three-Stage Crushing.graphml",
@@ -192,9 +182,6 @@
     "Susy Ideas-Legacy/Flaws of GT5u and Related.md",
     "Susy Ideas-Legacy/Issues in SuSy.md",
     "Susy Ideas-Legacy/Fire Reporting Systems.md",
-    "Susy Ideas-Legacy/Fire Hazard Handling.md",
-    "Susy Ideas-Legacy/Fibre Optics.md",
-    "Susy Ideas-Legacy/Extraction.md",
     "Susy Ideas-Legacy",
     "Legacy/Media/Yearning for the Mining.canvas",
     "Legacy/Media/Three-Stage Crushing.png",
@@ -209,7 +196,6 @@
     "Meeting Notes",
     "Materials Sci",
     "Oreverhaul/Processing",
-    "Media/Yearning for the Mining.canvas",
     "Media/Three-Stage Crushing.png"
   ]
 }
