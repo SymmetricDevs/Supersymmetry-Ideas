@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a80049fbf05a7792",
   "lastOpenFiles": [
+    "().md",
+    "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
+    "README.md",
     "Landfill (C) Eight.md",
     "Fibre Optics.md",
     "Untitled Kanban.md",
@@ -179,9 +182,6 @@
     "Susy Ideas-Legacy/Mining Machines.md",
     "Susy Ideas-Legacy/Media",
     "Susy Ideas-Legacy/Maintenance Redo.md",
-    "Susy Ideas-Legacy/Flaws of GT5u and Related.md",
-    "Susy Ideas-Legacy/Issues in SuSy.md",
-    "Susy Ideas-Legacy/Fire Reporting Systems.md",
     "Susy Ideas-Legacy",
     "Legacy/Media/Yearning for the Mining.canvas",
     "Legacy/Media/Three-Stage Crushing.png",
