@@ -1,6 +1,6 @@
 ---
 tags:
-  - SuSy
+  - Oreverhaul
 ---
 
 1.300 tons (example: hematite ore)/h

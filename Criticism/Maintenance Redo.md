@@ -1,3 +1,8 @@
+---
+tags:
+  - Criticism
+  - Concept-Phase
+---
 Multiblock maintenance should degrade based on their task and be directly related to it‘s function. Ex.: Chemical reactors have their reaction vessels corroded, smelters loose their refractory, etc. 
 High quality and quantity of maintenance and replacements will grand speed and efficiency bonuses at material and labour cost.
 Low states of maintenance will occasionally cause malfunctions (voiding recipes/power) or catch fire. 

@@ -5,7 +5,8 @@ aliases:
   - Dressing
   - Comminution
 tags:
-  - SuSy
+  - Concept-Phase
+  - Oreverhaul
 ---
 Beneficiation, also referred to as comminution, is the combination of processes applied to [[Types of Nodes and Deposits|ores and minerals]] [[Extraction|extracted]] from the surface and underground.
 Beneficiation aims to separate the desired compound(s), metal or element from its host mineral, which is referred to as gangue (in solid form) or tailings (if it is a liquid/slurry).

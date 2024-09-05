@@ -4,25 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e0353f2273d77eab",
+        "id": "20cc8deff2655aad",
         "type": "tabs",
         "children": [
           {
-            "id": "a80049fbf05a7792",
+            "id": "583e3bbfcaa3b47c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Media/Steel Chain.canvas",
-                "viewState": {
-                  "x": -38,
-                  "y": 394.5,
-                  "zoom": -1.0717640433614544
-                }
+                "file": "Exploration/Overworld Small Launchpad.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "d02c54d14ced044e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SuSy  ",
+                "query": "tag:SuSy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Steel Chain.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Steel Chain.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/Steel Chain.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -161,16 +163,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a80049fbf05a7792",
+  "active": "d02c54d14ced044e",
   "lastOpenFiles": [
-    "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
-    "Media/Steel Chain.canvas",
-    "().md",
-    "README.md",
+    "Exploration/Overworld Small Launchpad.md",
+    "Aerospace/Launchpad.md",
+    "Criticism/Overhauling Systems and Mechanics.md",
+    "Media/Three-Stage Crushing.png",
+    "Media/rocket_diagram.png",
+    "Media/launchpad_gui.png",
     "Landfill (C) Eight.md",
     "Fibre Optics.md",
-    "Untitled Kanban.md",
-    "Oreverhaul/Processing/Processing of Deposit Rocks.md",
+    "Systems Engineering/Track Control System.md",
+    "Systems Engineering/Thermodynamic Engineering.md",
+    "Systems Engineering/Pressure Swing Adsorption MKII.md",
+    "Systems Engineering/Fire Reporting Systems.md",
+    "Systems Engineering/Fire Hazard Handling.md",
+    "Systems Engineering/Designing a Flow Assembly.md",
+    "Oreverhaul/Oreverhaul Main Page.md",
+    "Oreverhaul/Technical Implementations of Oreverhaul.md",
+    "Oreverhaul/Road To Oreverhaul.md",
+    "Oreverhaul/Ore Voiding.md",
+    "Oreverhaul/Geogenesis/Oreverhaul Deposits.md",
+    "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
+    "Oreverhaul/Extraction/Natgas and Oil Extraction.md",
+    "Oreverhaul/Extraction/Mining Machines.md",
+    "Oreverhaul/Extraction/Extraction.md",
+    "Meeting Notes/31-08-24.md",
+    "Media/Canvases",
+    "Media/Canvases/GT Material Loop.canvas",
+    "Media/Canvases/Generalised Ore to Pure Metal.canvas",
+    "Media/Canvases/Fire Systems.canvas",
+    "Materials Sci/Superalloys.md",
+    "Materials Sci/Steel Chain.canvas",
+    "Materials Sci/Slag.md",
+    "Aerospace/Rocket.md",
+    "Aerospace/Rocket Modules.md",
+    "Oreverhaul/Coal Sheet Mining.md",
     "Susy Ideas-Legacy/Media/Yearning for the Mining.canvas",
     "Susy Ideas-Legacy/Media/Three-Stage Crushing.png",
     "Susy Ideas-Legacy/Media/Three-Stage Crushing.graphml",
@@ -178,38 +206,15 @@
     "Susy Ideas-Legacy/Media/GT Material Loop.canvas",
     "Susy Ideas-Legacy/Media/Generalised Ore to Pure Metal.canvas",
     "Susy Ideas-Legacy/Media/Fire Systems.canvas",
-    "Susy Ideas-Legacy/Jaw Crusher calculations.md",
-    "Susy Ideas-Legacy/Types of Nodes and Deposits.md",
-    "Susy Ideas-Legacy/Track Control System.md",
-    "Susy Ideas-Legacy/Tertiary Crushing.md",
-    "Susy Ideas-Legacy/Technical Implementations of Oreverhaul.md",
-    "Susy Ideas-Legacy/Sources and References.md",
-    "Susy Ideas-Legacy/Slag.md",
-    "Susy Ideas-Legacy/Secondary Crushing.md",
-    "Susy Ideas-Legacy/Road To Oreverhaul.md",
-    "Susy Ideas-Legacy/Processing of Deposit Rocks.md",
-    "Susy Ideas-Legacy/Primary Crushing.md",
-    "Susy Ideas-Legacy/Mineral Processing Machines.md",
-    "Susy Ideas-Legacy/Pressure Swing Adsorption MKII.md",
-    "Susy Ideas-Legacy/Overhauling Systems and Mechanics.md",
-    "Susy Ideas-Legacy/Oreverhaul Main Page.md",
-    "Susy Ideas-Legacy/Oreverhaul Deposits.md",
-    "Susy Ideas-Legacy/Natgas and Oil Extraction.md",
-    "Susy Ideas-Legacy/Mining Machines.md",
     "Susy Ideas-Legacy/Media",
     "Susy Ideas-Legacy",
     "Legacy/Media/Yearning for the Mining.canvas",
     "Legacy/Media/Three-Stage Crushing.png",
     "Legacy/Media/Three-Stage Crushing.graphml",
-    "Legacy/Media/Three-Stage Comminution.canvas",
-    "Legacy/Media/GT Material Loop.canvas",
-    "Legacy/Media/Generalised Ore to Pure Metal.canvas",
     "Legacy/Media",
     "Legacy",
     "open.url",
     "Meeting Notes",
-    "Materials Sci",
-    "Oreverhaul/Processing",
-    "Media/Three-Stage Crushing.png"
+    "Materials Sci"
   ]
 }

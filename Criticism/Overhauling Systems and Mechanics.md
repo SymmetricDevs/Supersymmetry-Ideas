@@ -1,9 +1,11 @@
 ---
 tags:
-  - SuSy
+  - Concept-Phase
+  - Criticism
+  - Overhauls
 ---
-[[Issues in SuSy]] / [[Oreverhaul Main Page]]
+[[Issues in SuSy]] 
 Systems/Mechanics to be overhauled:
-- Geothermal
+- [[Geothermal Overhaul]]
 - Fluid vein spawning (brine is too common)
 - [[Processing of Deposit Rocks]]

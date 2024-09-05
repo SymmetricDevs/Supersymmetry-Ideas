@@ -1,6 +1,6 @@
 ---
 tags:
-  - SuSy
+  - Criticism
 ---
 Yes, this is all highly subjective and biased. It is My Opinion™.
 

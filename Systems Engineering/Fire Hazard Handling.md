@@ -1,6 +1,9 @@
 ---
 tags:
-  - SuSy
+  - Systems-Engineering
+  - Concept-Phase
+hotlinks:
+  - "[[Control Systems]]"
 ---
 Machines in susy should have a opt-in config option for them to spontaneously catch on fire per operation (with a distribution bias on the procedure executed).
 Respective [[Fire Reporting Systems]] and devices should be given out, but in ways that that the player is forced to construct combatting systems that act autonomous (or else their base will go up in flames).

@@ -1,6 +1,10 @@
 ---
 tags:
-  - SuSy
+  - Systems-Engineering
+  - Overhauls
+  - Implementation
+hotlinks:
+  - "[[Control Systems]]"
 ---
 Pressure swing absorbers act by funneling a gas-borne mixture (usually air) into two (or more) reaction vessels fitted with molecular *sieve*. Suzy’s PSA currently resembles a single reaction column, which does not represent the ”real deal”. 
 So hypothetically, to implement it in Susy, it’d take high-pressure air and produce either O2/N2 (dependent on sieve) and return less HP air, and then would require a cooldown. This’d facilitate needing two or more columns to produce a constant stream of O2/N2. Additional [[Control Systems]] would facilitate their coordination. 

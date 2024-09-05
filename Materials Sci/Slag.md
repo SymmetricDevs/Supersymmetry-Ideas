@@ -1,6 +1,7 @@
 ---
 tags:
-  - SuSy
+  - Material-Science
+  - Concept-Phase
 ---
 Slag is a (by)product of smelting and pyrometallurgical extraction of metals from minerals, which is typically seen as waste in this field. Slag describes the undesired compounds which settle separately from the metal in the furnace. 
 

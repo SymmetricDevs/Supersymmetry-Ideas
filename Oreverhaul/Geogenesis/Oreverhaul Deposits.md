@@ -1,6 +1,8 @@
 ---
 tags:
-  - SuSy
+  - Oreverhaul
+  - Concept-Phase
+  - TODO
 ---
 ## About Ore Deposits
 Ores as such should still continue to exist, albeit not in the very regular and easy to exploit grid pattern of GT5 (if possible), but perhaps lean onto GT6 where ore deposits are equal to the stone they spawn in, so having a continuous and huge deposit per formation. 

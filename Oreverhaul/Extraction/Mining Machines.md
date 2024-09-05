@@ -1,6 +1,7 @@
 ---
 tags:
-  - SuSy
+  - Oreverhaul
+  - Extraction
 ---
 # Sourcing Minerals
 

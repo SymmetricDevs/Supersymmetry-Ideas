@@ -1,6 +1,7 @@
 ---
 tags:
-  - SuSy
+  - Systems-Engineering
+  - Concept-Phase
 ---
 
 In order to achieve a both realistic and enjoyable gameplay experience of thermodynamics, we must make amends.

@@ -1,17 +1,16 @@
 ---
 tags:
-  - SuSy
+  - Oreverhaul
+  - Overhauls
+  - Project
+  - Implementation
 hotlinks:
   - "[[Technical Implementations of Oreverhaul]]"
   - "[[Road To Oreverhaul]]"
   - "[[Sources and References]]"
   - "[[Fibre Optics]]"
-  - "[[Control Systems]]"
 ---
-[[Technical Implementations of 
-[[Road To Oreverhaul]]
-[[Sources and References]] [[Fibre Optics]]
-#SuSy 
+
 
 ![[Mining Machines#^f786ea|Mining Machines]]
 

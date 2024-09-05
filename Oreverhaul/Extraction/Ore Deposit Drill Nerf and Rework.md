@@ -1,7 +1,13 @@
+---
+tags:
+  - Concept-Phase
+  - Oreverhaul
+  - Overhauls
+---
 In the current state, the big ore drill provides a big stream of free^[aside from power] resources, some of which are either orphaned (single use case) or entirely worthless and unused. 
+
 The usability and „Junk“ acquired has been addressed in [Issue \#967](https://github.com/SymmetricDevs/Supersymmetry/issues/967) and the related [PR](https://github.com/SymmetricDevs/Supersymmetry/pull/972). 
 It also is so strong and easy to use that conventional mining (may it be automatic or manual) becomes obsolete entirely. I‘ll address this as well in a separate file.
-
 # Extract
 To add some amount of challenge and expenses to operating this drill, I propose these factors:
 - Lubrication (Drilling Fluid)

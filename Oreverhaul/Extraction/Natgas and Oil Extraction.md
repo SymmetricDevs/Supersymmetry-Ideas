@@ -1,8 +1,7 @@
 ---
 tags:
-  - SuSy
----
-Natural Gas and Crude Oil 
+  - Oreverhaul
+  - Extraction
 ---
 Oil/Gas Wells experience three phases in their life, each of which tied to the remaining petroleum in the deposit. 
 - Primary Recovery

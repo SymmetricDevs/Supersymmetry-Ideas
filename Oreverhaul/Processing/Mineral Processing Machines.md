@@ -1,6 +1,7 @@
 ---
 tags:
-  - SuSy
+  - Oreverhaul
+  - Concept-Phase
 ---
 This page intends to include a mostly complete index and list of machines used for [[Beneficiation]].
 
