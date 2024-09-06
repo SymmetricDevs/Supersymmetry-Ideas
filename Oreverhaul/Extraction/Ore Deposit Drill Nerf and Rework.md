@@ -24,12 +24,20 @@ I did consider using mining pipes but it is not sensical, given that the drill h
 > I always assume that people will overclock their multiblock whenever possible so this table reflects that. 
 > Second, designing mechanics that are difficult initially but get tangibly easier with progression are very satisfying. 
 
-| Tier/Power    | Base Speed | Avg. Rocks/s | Gangue % | Lubrication | Cooling  | Drilling Fluid/Solvent |
-| ------------- | ---------- | ------------ | -------- | ----------- | -------- | ---------------------- |
-| LV (32EU/t)   | 0.25       | 2-4          | 95%      | ❌ (+1✅)     | ❌(+1x✅)  | ❌                      |
-| MV (128EU/t)  | 1          | 4-8          | 75%      | ❌(+2✅)      | ❌(1.5x✅) | ❌                      |
-| HV (512EU/t)  | 4          | 4-12         | 50%      | ✅ (-2❌)     | ❌(+2x✅)  | ❌                      |
-| EV (2048EU/t) | 8          | 8-16         | 25%      | ✅(-4❌)      | ✅(0.5x❌) | ✅                      |
+Cycle speed is a fixed constant ATM, which has to be translated to full processes per minute upon implementation.
+
+| Tier/Power    | Base Cycles/min | Avg. Rocks/s | Gangue % | Lubrication | Cooling  | Drilling Fluid/Solvent |
+| ------------- | --------------- | ------------ | -------- | ----------- | -------- | ---------------------- |
+| LV (32EU/t)   | 0.25            | 2-4          | 95%      | ❌ (+1✅)     | ❌(+1x✅)  | ❌                      |
+| MV (128EU/t)  | 1               | 4-8          | 75%      | ❌(+2✅)      | ❌(1.5x✅) | ❌                      |
+| HV (512EU/t)  | 4               | 4-12         | 50%      | ✅ (-2❌)     | ❌(+2x✅)  | ❌                      |
+| EV (2048EU/t) | 8               | 8-16         | 25%      | ✅(-4❌)      | ✅(0.5x❌) | ✅                      |
+## An Example
+A drill at MV has a base speed of 1. 
+This means that it produces an average of 6 rocks, 75% of which is gangue, over the span of one minute. 
+Base speed of 1 at MV.
+If lubricant is applied, it‘s base speed becomes 3, thus producing 3x 4-8 rocks/min for avg. 18 rocks/m. 
+If then cooling is also applied, it‘s base speed becomes multiplied by 1.5x, becoming 4.5 boosted, yielding avg. 27 rocks/min.
 # Supplied Upgrades
 ## Lubrication
 Lubricant is the usual deal, behaving like LSTs. It would increase base machine speed with the lube consumption being dependent on the grade of lube used. 
