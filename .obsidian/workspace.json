@@ -23,8 +23,12 @@
             "id": "d02c54d14ced044e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Screenshot and Structure Submissions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Screenshot and Structure Submissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Screenshot and Structure Submissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Screenshot and Structure Submissions.md"
+              }
             }
           },
           {
@@ -165,6 +173,14 @@
   },
   "active": "d02c54d14ced044e",
   "lastOpenFiles": [
+    "Aerospace/Rocket.md",
+    "Meeting Notes/07-09-24.md",
+    "Criticism/Issues in SuSy.md",
+    "Oreverhaul/smelting rework.md",
+    "Metallurgy/Steelmaking.md",
+    "Metallurgy",
+    "Criticism/Maintenance Redo.md",
+    "Screenshot and Structure Submissions.md",
     "Exploration/Overworld Small Launchpad.md",
     "Aerospace/Launchpad.md",
     "Criticism/Overhauling Systems and Mechanics.md",
@@ -187,18 +203,11 @@
     "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
     "Oreverhaul/Extraction/Natgas and Oil Extraction.md",
     "Oreverhaul/Extraction/Mining Machines.md",
-    "Oreverhaul/Extraction/Extraction.md",
-    "Meeting Notes/31-08-24.md",
     "Media/Canvases",
     "Media/Canvases/GT Material Loop.canvas",
     "Media/Canvases/Generalised Ore to Pure Metal.canvas",
     "Media/Canvases/Fire Systems.canvas",
-    "Materials Sci/Superalloys.md",
-    "Materials Sci/Steel Chain.canvas",
-    "Materials Sci/Slag.md",
-    "Aerospace/Rocket.md",
-    "Aerospace/Rocket Modules.md",
-    "Oreverhaul/Coal Sheet Mining.md",
+    "Metallurgy/Materials Sci/Steel Chain.canvas",
     "Susy Ideas-Legacy/Media/Yearning for the Mining.canvas",
     "Susy Ideas-Legacy/Media/Three-Stage Crushing.png",
     "Susy Ideas-Legacy/Media/Three-Stage Crushing.graphml",
@@ -214,7 +223,6 @@
     "Legacy/Media",
     "Legacy",
     "open.url",
-    "Meeting Notes",
-    "Materials Sci"
+    "Meeting Notes"
   ]
 }

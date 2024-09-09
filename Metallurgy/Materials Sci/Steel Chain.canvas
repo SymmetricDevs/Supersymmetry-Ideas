@@ -3,7 +3,7 @@
 		{"id":"cdfded3037b255ce","type":"text","text":"Coke/Coal (Carbon)","x":133,"y":-250,"width":207,"height":64},
 		{"id":"2995414459e0eb99","type":"text","text":"Iron Mineral Dust","x":-200,"y":-440,"width":250,"height":60},
 		{"id":"1a4a702f7f2fa950","type":"text","text":"Pelletizing","x":-200,"y":-246,"width":250,"height":60,"color":"3"},
-		{"id":"97d23f86e7b60ecc","type":"text","text":"Limestone","x":-620,"y":-250,"width":250,"height":60},
+		{"id":"97d23f86e7b60ecc","type":"text","text":"Calcium Oxide (Roasted Limestone)","x":-620,"y":-250,"width":250,"height":60},
 		{"id":"b7fe451ebc85853d","type":"text","text":"# Blast Furnace","x":-216,"y":-20,"width":282,"height":95,"color":"5"},
 		{"id":"3aef6d630e68bc12","type":"text","text":"Ore Processing (Abstracted)","x":-208,"y":-560,"width":266,"height":60,"color":"4"},
 		{"id":"2417278645dcdf70","type":"text","text":"Molten Pig Iron","x":-167,"y":260,"width":184,"height":60,"color":"1"},
@@ -12,16 +12,20 @@
 		{"id":"f2ef5f73c5c0da88","type":"text","text":"Molten  Low-Carbon Steel","x":-154,"y":670,"width":158,"height":60,"color":"1"},
 		{"id":"a68087d04425d721","type":"text","text":"Coolant","x":-619,"y":813,"width":139,"height":60,"color":"#2e95f5"},
 		{"id":"e0806484bd29a3e7","type":"text","text":"O2","x":-574,"y":440,"width":94,"height":60},
-		{"id":"5287ae08661bfa25","type":"text","text":"Flue Gas","x":348,"y":100,"width":142,"height":60},
-		{"id":"9454778ccd46bbfa","type":"text","text":"Molten  Ferrous [[Slag]]","x":348,"y":195,"width":217,"height":65},
+		{"id":"5287ae08661bfa25","type":"text","text":"Hot Flue Gas","x":348,"y":100,"width":217,"height":60,"color":"3"},
+		{"id":"9454778ccd46bbfa","type":"text","text":"Molten  Ferrous [[Slag]]","x":348,"y":195,"width":217,"height":65,"color":"2"},
 		{"id":"c361c0f35f44b7b6","type":"text","text":"Other Steel alloys (When additives are provided)","x":348,"y":620,"width":250,"height":80},
 		{"id":"17031a06ee2c8f27","type":"text","text":"Hot Coolant","x":348,"y":813,"width":168,"height":60,"color":"#c97618"},
-		{"id":"3f9b9cb1d44844eb","type":"text","text":"Coils, Rods, Profiles","x":-200,"y":980,"width":250,"height":60},
+		{"id":"3f9b9cb1d44844eb","type":"text","text":"Billets; Rod, Sheet, Profile","x":-200,"y":980,"width":250,"height":60},
 		{"id":"3436cf329877e61f","type":"text","text":"## Strand Casting","x":-208,"y":800,"width":266,"height":87,"color":"5"},
 		{"id":"36370d2251b3cf6e","type":"text","text":"Cutting","x":-200,"y":1100,"width":250,"height":60,"color":"5"},
-		{"id":"e16f9427a52eea48","x":-342,"y":1289,"width":125,"height":60,"type":"text","text":"Plates"},
-		{"id":"a6fda6882d0951ca","x":-194,"y":1284,"width":119,"height":60,"type":"text","text":"Sheets"},
-		{"id":"f0d2cc11ac625bfd","x":-48,"y":1289,"width":130,"height":60,"type":"text","text":"Beams"}
+		{"id":"e16f9427a52eea48","type":"text","text":"Plates","x":-342,"y":1289,"width":125,"height":60},
+		{"id":"f0d2cc11ac625bfd","type":"text","text":"Beams","x":-48,"y":1289,"width":130,"height":60},
+		{"id":"8e685cddb01d60a3","type":"text","text":"Regenerative Heat Exchanger","x":332,"y":-20,"width":250,"height":60},
+		{"id":"dfe9fdcc2839a5ed","type":"text","text":"Air","x":720,"y":-246,"width":250,"height":60,"color":"3"},
+		{"id":"6c8a5f40ef72df66","type":"text","text":"Flue Gas","x":720,"y":195,"width":250,"height":60,"color":"3"},
+		{"id":"a6fda6882d0951ca","type":"text","text":"Sheets","x":-194,"y":1289,"width":119,"height":60},
+		{"id":"2ebf55b91ebd8244","type":"text","text":"(Long) Rods","x":100,"y":1294,"width":147,"height":51}
 	],
 	"edges":[
 		{"id":"479b7b9b1abbf576","fromNode":"97d23f86e7b60ecc","fromSide":"right","toNode":"1a4a702f7f2fa950","toSide":"left"},
@@ -45,6 +49,11 @@
 		{"id":"1c0d18883f1937bd","fromNode":"3f9b9cb1d44844eb","fromSide":"bottom","toNode":"36370d2251b3cf6e","toSide":"top"},
 		{"id":"5fbc9238eef76202","fromNode":"36370d2251b3cf6e","fromSide":"bottom","toNode":"e16f9427a52eea48","toSide":"top"},
 		{"id":"047dcf541957f081","fromNode":"36370d2251b3cf6e","fromSide":"bottom","toNode":"a6fda6882d0951ca","toSide":"top"},
-		{"id":"c0d263c70e57a219","fromNode":"36370d2251b3cf6e","fromSide":"bottom","toNode":"f0d2cc11ac625bfd","toSide":"top"}
+		{"id":"c0d263c70e57a219","fromNode":"36370d2251b3cf6e","fromSide":"bottom","toNode":"f0d2cc11ac625bfd","toSide":"top"},
+		{"id":"2135cc84c2d9b9f8","fromNode":"5287ae08661bfa25","fromSide":"top","toNode":"8e685cddb01d60a3","toSide":"bottom"},
+		{"id":"e10bf81e8d33815f","fromNode":"8e685cddb01d60a3","fromSide":"left","toNode":"b7fe451ebc85853d","toSide":"right","label":"Hot Air"},
+		{"id":"d5a434bf2eeb66b1","fromNode":"8e685cddb01d60a3","fromSide":"right","toNode":"6c8a5f40ef72df66","toSide":"left"},
+		{"id":"09001ff16ff0cf12","fromNode":"dfe9fdcc2839a5ed","fromSide":"bottom","toNode":"8e685cddb01d60a3","toSide":"top"},
+		{"id":"38e21a37e832d081","fromNode":"36370d2251b3cf6e","fromSide":"bottom","toNode":"2ebf55b91ebd8244","toSide":"top"}
 	]
 }
