@@ -173,6 +173,8 @@
   },
   "active": "d02c54d14ced044e",
   "lastOpenFiles": [
+    "Materials Sci/Steel Chain.canvas",
+    "Materials Sci",
     "Aerospace/Rocket.md",
     "Meeting Notes/07-09-24.md",
     "Criticism/Issues in SuSy.md",
@@ -202,7 +204,6 @@
     "Oreverhaul/Geogenesis/Oreverhaul Deposits.md",
     "Oreverhaul/Extraction/Ore Deposit Drill Nerf and Rework.md",
     "Oreverhaul/Extraction/Natgas and Oil Extraction.md",
-    "Oreverhaul/Extraction/Mining Machines.md",
     "Media/Canvases",
     "Media/Canvases/GT Material Loop.canvas",
     "Media/Canvases/Generalised Ore to Pure Metal.canvas",
@@ -222,7 +223,6 @@
     "Legacy/Media/Three-Stage Crushing.graphml",
     "Legacy/Media",
     "Legacy",
-    "open.url",
-    "Meeting Notes"
+    "open.url"
   ]
 }
