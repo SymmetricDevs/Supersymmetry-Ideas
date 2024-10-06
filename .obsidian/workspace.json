@@ -23,14 +23,28 @@
             "id": "d02c54d14ced044e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Wafer_Manufacture_Process2.png"
+                "file": "Systems Engineering/Track Control System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba83fa7697eb63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strand Casting.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Wafer_Manufacture_Process2.png",
+                "file": "Strand Casting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Wafer_Manufacture_Process2.png",
+                "file": "Strand Casting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Wafer_Manufacture_Process2.png"
+                "file": "Strand Casting.md"
               }
             }
           },
@@ -170,12 +184,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d02c54d14ced044e",
+  "active": "0ba83fa7697eb63a",
   "lastOpenFiles": [
+    "Systems Engineering/Track Control System.md",
+    "Strand Casting.md",
+    "Media/Wafer_Manufacture_Process2.png",
     "Media/Wafer_Manufacture_Process1.png",
     "Media/Wafer_Manufacture_Process.png",
     "Screenshot and Structure Submissions.md",
-    "Media/Wafer_Manufacture_Process2.png",
     "Media/Wafer_Manufacture_Process3.png",
     "Media/Wafer_Manufacture_Process4.png",
     "Exploration/Overworld Small Launchpad.md",
@@ -195,7 +211,6 @@
     "Media/launchpad_gui.png",
     "Landfill (C) Eight.md",
     "Fibre Optics.md",
-    "Systems Engineering/Track Control System.md",
     "Systems Engineering/Thermodynamic Engineering.md",
     "Systems Engineering/Pressure Swing Adsorption MKII.md",
     "Systems Engineering/Fire Reporting Systems.md",
