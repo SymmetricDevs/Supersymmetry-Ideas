@@ -1,9 +1,3 @@
----
-tags:
-  - Concept-Phase
-  - Exploration
----
-divine-ray: do we really need this Berlin Wall of a lorepost
 # TARDIS Manual
 
 ## Life of a TARDIS

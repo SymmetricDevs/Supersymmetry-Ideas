@@ -1,9 +1,4 @@
----
-tags:
-  - Aerospace
-  - Concept-Phase
-  - Project
----
+# Launchpad
 
 ### General Info
 
@@ -13,7 +8,7 @@ There are different ways we can go about rocket assembly, but the idea I like th
 
 ## Assembly GUI
 
-![x](launchpad_gui.png)
+![x](assets/launchpad_gui.png)
 
 I think an Assembly GUI is ideal for rocket planning and preventing errors. Basically you move the modules from the "Available Modules" list into the "Rocket Plan".
 
